@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
-# TWITTER CLONE: TWITTTER
+# Twitter Clone: Twittter
 This Project is a Rails app built using Ruby on Rails, to implement the creation of forms both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-- [TWITTER CLONE: TWITTTER](#twitter-clone-twittter)
+- [Twitter Clone: Twittter](#twitter-clone-twittter)
   - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
 - [Getting started](#getting-started)
