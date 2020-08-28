@@ -5,7 +5,7 @@ class TweeetsController < ApplicationController
   # GET /tweeets.json
   def index
     # To display them in specific order it goes right after Tweeet.all figure out how to with PG
-    @tweeets = Tweeet.all
+    @tweeets = Tweeet.all.order('created_at DESC')
     @tweeet = Tweeet.new
   end
 
