@@ -4,7 +4,9 @@ class TweeetsController < ApplicationController
   # GET /tweeets
   # GET /tweeets.json
   def index
+    # To display them in specific order it goes right after Tweeet.all figure out how to with PG
     @tweeets = Tweeet.all
+    @tweeet = Tweeet.new
   end
 
   # GET /tweeets/1
