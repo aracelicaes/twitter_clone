@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 # Twitter Clone: Twittter
-This Project is a Rails app built using Ruby on Rails, to implement the creation of forms both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
+This Project is an app built using Ruby on Rails, to implement the creation of a light weight version of Twitter and get lot of healthy experience with using Devise in the process.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -10,15 +10,16 @@ This Project is a Rails app built using Ruby on Rails, to implement the creation
 - [Getting started](#getting-started)
   - [Installation](#installation)
   - [Features:](#features)
+  - [Ruby Gems used in this project](#ruby-gems-used-in-this-project)
 - [Authors](#authors)
 - [Acknowledgements](#acknowledgements)
   - [Show your support](#show-your-support)
 <!-- ABOUT THE PROJECT -->
 # About The Project
 This Project is an app built using Ruby on Rails, to implement the creation of a light weight version of Twitter and get lot of healthy experience with using Devise in the process.
-This project demonstrates a User Role system giving the web application and native application feel all within the browser. I used Rails generators to help scaffold views. The app features the CRUD principle where we create, read, update and destroy Tweettts. I used the Devise gem which makes creating an entire user role and authentication system a lot easier.
+This project demonstrates a User Role system giving the web application and native application feel all within the browser. I used Rails generators to help scaffold views. The app features the CRUD principle where we create, read, update and destroy Tweeets. I used the Devise gem which makes creating an entire user role and authentication system a lot easier.
 
-![screenshot](new_user.png)
+![screenshot](twitter.png)
 
 <!-- GETTING STARTED -->
 # Getting started
@@ -26,7 +27,7 @@ This project demonstrates a User Role system giving the web application and nati
 * Clone the repo following [this link](https://github.com/aracelicaes/re-former)
 * Install all dependencies running from terminal using the command <pre><code>bundle install
 </code></pre>
-* Run from terminal <pre><code>bin/rails console
+* Run from terminal <pre><code>bin/rails server
 </code></pre>
 
 ## Features:
@@ -34,6 +35,14 @@ This project demonstrates a User Role system giving the web application and nati
 * Rubocop
 * Ruby Gems
 * Postgresql
+
+## Ruby Gems used in this project
+
+* [Bulma](https://github.com/joshuajansen/bulma-rails) - CSS Framework
+* [Guard](https://github.com/guard/guard) - For livereloading SCSS, JS, CSS & ERB files.
+* [Simple Form](https://github.com/plataformatec/simple_form) - For simpler forms layouts.
+* [Devise](https://github.com/plataformatec/devise) - Easy User Roles and Authentication.
+* [Gravatar_image_tag](https://github.com/mdeering/gravatar_image_tag) - Integrated image tag that issues gravatars.
 
 <!-- CONTACT -->
 # Authors
