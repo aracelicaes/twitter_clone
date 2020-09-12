@@ -48,7 +48,7 @@ This project demonstrates a User Role system giving the web application and nati
 # Authors
 👤 **Ara Camarillo**
 
-- Github: [aracelicaes](https://github.com/jessicafarias)
+- Github: [aracelicaes](https://github.com/aracelicaes)
 - Twitter: [@Ara_CE_93](https://twitter.com/Ara_CE_93)
 - Linkedin: [Ara Camarillo](www.linkedin.com/in/ara-camarillo)
 
